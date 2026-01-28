@@ -1,7 +1,7 @@
-**Introduction**
+# Introduction
 Full stack Kanban Board application
 
-**Installation**
+## Installation
 First run on the root folder:
 npm run preinstall
 npm run install
@@ -10,22 +10,18 @@ npm run build
 Then the application can be ran with:
 npm run dev
 
-**How to use**
+## How to use
 First you need to register and login. 
 You create Columns by clicking the + icon. Title can be edited by double clicking it and saved by pressing enter on keyboard or clicking away. From the column menu (three stripes button) you can add cards by selecting "Add Card" or delete column by selecting "Delete Column" or edit title (especially on mobile since you can't double click => saved by clicking awawy). 
 
 Once added card title and content can be edited by double clicking or on mobile especially by clicking the three stripes button. All edits are saved by pressing Enter on keyboard or by pressing the save button. 
 Card can be moved up and down inside column with arrow up and down buttons, and between columns by dragging and dropping.
 
-**Features**
-| Feature                          | Point proposal |
-|----------------------------------|----------------|
-| Basic features                   | 25              |
-| Use of React                     | 3              |
-| Drag and drop cards              | 2              |
-| Double click for editing texts   | 4              |
-| Multiple different user support   | 5              |
-
-**AI Declaration**
-GitHub Copilot was used for syntax debugging, overall proofreading and for idea creation on how to implement certain functions.
-No other AI tools were used.
+## Features
+| Feature                          |
+|----------------------------------|
+| Basic features                   |
+| Use of React                     |
+| Drag and drop cards              |
+| Double click for editing texts   |
+| Multiple different user support   |
