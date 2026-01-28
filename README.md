@@ -2,7 +2,7 @@
 Full stack Kanban Board application
 
 ## Installation
-First run on the root folder:
+First run in the root folder:
 npm run preinstall
 npm run install
 npm install
